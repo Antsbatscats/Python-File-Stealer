@@ -43,6 +43,8 @@ If you have been affected by this software, there should be no worry of infectio
 ## Notes: 
 This program has an in built blacklisting function, if you wish to blacklist more directories, just add them in. If you don't want any blacklisting, just delete the contecnts of the blacklisting variable and replace it with two apostrophes. This program also has a set list of accepted file extensions, so if you want more file types to be sent just add them in as you wish. 
 
+This is designed for a windows based operating system at the moment - in the future I will attempt to make it so that this can be used for any type of operating system.
+
 ## Find a Bug? 
 
 if you have found a bug in the code, use the issue tab above. If you would like to submit a PR with a fix, reference the issue you are fixing. If you are looking for new features, use the suggestion function in the issues tab above to do so. 
