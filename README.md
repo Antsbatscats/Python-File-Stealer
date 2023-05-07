@@ -30,19 +30,23 @@ As this is a python file - this will only run if the victim has python installed
 4. You can send this file to anyone, and they will be able to run this even if they don't have python installed. 
 
 ## Warnings:
-As of the 07/05/23 this cannot be detected in viruus total, to look see [here](https://www.virustotal.com/gui/file/718ebf7598cf50b3910119bfce0b51a590eb61530609b55d2baa9d02b922aca2?nocache=1).
+As of the 07/05/23 this cannot be detected in virus total when its just as a python script, to look see [here](https://www.virustotal.com/gui/file/718ebf7598cf50b3910119bfce0b51a590eb61530609b55d2baa9d02b922aca2?nocache=1).
 However, when this script is compliled into an executable file, six detections are made in virus total (note that I have changed the name of the executable file) to see, look [here](https://www.virustotal.com/gui/file/1c4fde56cc39bbd0d15dec6e91fc973ac686f0e194d7a9de34041d00ff7200e2). 
 
+## If You have been Affected: 
+
+If you have been affected by this software, there should be no worry of infection, this software has no persistence capablities as of now, and can't be used to remotely acess or controll a victim computer in its current form. 
+
 ## Notes: 
-This program has an inbuilt b;acklisting function, if you wish to blacklist more directories, just add them in. If you don't want any blacklisting, just delete the contecnts of the blacklisting variable and replace it with two apostrophes. This program also has a set list of accepted file extensions, so if you want more file types to be sent just add them in as you wish. 
+This program has an in built blacklisting function, if you wish to blacklist more directories, just add them in. If you don't want any blacklisting, just delete the contecnts of the blacklisting variable and replace it with two apostrophes. This program also has a set list of accepted file extensions, so if you want more file types to be sent just add them in as you wish. 
 
 ## Find a Bug? 
 
-if you have found a bug in the code, or would like to submit an Improvement this project, please submit an issue using the issue tab above. If you would like to submit a PR with a fix, reference the issue you are fixing.
+if you have found a bug in the code, use the issue tab above. If you would like to submit a PR with a fix, reference the issue you are fixing. If you are looking for new features, use the suggestionn function in tthe issues tab above to do so. 
 
 ## LICENCE: 
 
-This project has been Licenced under the GNU Affero General Public License v3.0. It can be found at [LICENCE]()
+This project has been Licenced under the GNU Affero General Public License v3.0. It can be found at [LICENCE](https://github.com/Antsbatscats/Python-Malware-File-Stealer/blob/main/LICENSE)
 
 ## Legality:
 
