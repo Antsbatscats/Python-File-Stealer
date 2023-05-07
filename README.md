@@ -38,7 +38,7 @@ However, when this script is compliled into an executable file, six detections a
 
 ## If You have been Affected: 
 
-If you have been affected by this software, there should be no worry of infection, this software has no persistence capablities as of now, and can't be used to remotely acess or controll a victim computer in its current form. 
+If you have been affected by this software, there should be no worry of infection, this software has no persistence capablities as of now, and can't be used to remotely access or control a victim machine in its current form. 
 
 ## Notes: 
 This program has an in built blacklisting function, if you wish to blacklist more directories, just add them in. If you don't want any blacklisting, just delete the contecnts of the blacklisting variable and replace it with two apostrophes. This program also has a set list of accepted file extensions, so if you want more file types to be sent just add them in as you wish. 
