@@ -1,5 +1,5 @@
 # Python-Malware-File-Stealer
-This is a File Staler written in Python. As of the 07/05/23, this is undetectable in virus total. This is malware designed as powerful file stealer to steal all the files from a victims computer and then forward the files to a discord WebHook.
+This is a File Stealer written in Python. As of the 07/05/23, this is undetectable in virus total. This is malware designed as powerful file stealer to steal all the files from a victims computer and then forward the files to a discord WebHook.
 
 ## Functionality:
 
