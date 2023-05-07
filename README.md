@@ -45,7 +45,7 @@ This program has an in built blacklisting function, if you wish to blacklist mor
 
 ## Find a Bug? 
 
-if you have found a bug in the code, use the issue tab above. If you would like to submit a PR with a fix, reference the issue you are fixing. If you are looking for new features, use the suggestionn function in the issues tab above to do so. 
+if you have found a bug in the code, use the issue tab above. If you would like to submit a PR with a fix, reference the issue you are fixing. If you are looking for new features, use the suggestion function in the issues tab above to do so. 
 
 ## LICENCE: 
 
