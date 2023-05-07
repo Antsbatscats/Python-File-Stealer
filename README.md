@@ -42,7 +42,7 @@ if you have found a bug in the code, or would like to submit an Improvement this
 
 ## LICENCE: 
 
-This project has been Licenced under the 
+This project has been Licenced under the GNU Affero General Public License v3.0. It can be found at [LICENCE]()
 
 ## Legality:
 
