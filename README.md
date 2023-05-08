@@ -16,7 +16,7 @@ All you need to do to have this program work is place your discord webhook in th
 - `WEBHOOK_URL = "place your discord webhook here"`
 
 ## Necessary Things: 
-* You will need python installed to use this. If you dont't have it installed look [here](https://www.python.org/downloads/windows/)
+* You will need python installed to use this. If you don't have it installed look [here](https://www.python.org/downloads/windows/)
 
 ## How to install and use the program:
 1. Clone the github repository
